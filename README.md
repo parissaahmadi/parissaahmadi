@@ -16,3 +16,12 @@ Python + industrial software. Small, self-contained demos — each one with test
 ## More
 
 [`industrial-ai-demos`](https://github.com/parissaahmadi/industrial-ai-demos) — approval workflow, forward-only migrations, Persian-aware search, LiveKit tokens, vibration anomaly detection.
+
+## Earlier work
+
+Notebooks and ML experiments from earlier years:
+
+- [py4bio](https://github.com/parissaahmadi/py4bio) — Python for bioinformatics (Jupyter notebooks)
+- [neural-network](https://github.com/parissaahmadi/neural-network) — Neural network from scratch (Jupyter)
+- [AutomationTasks](https://github.com/parissaahmadi/AutomationTasks) — Python automation scripts
+- [enterprise-ai-assistant](https://github.com/parissaahmadi/enterprise-ai-assistant) — Enterprise AI assistant
