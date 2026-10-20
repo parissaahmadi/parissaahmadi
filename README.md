@@ -53,5 +53,6 @@ My work combines Python, API development, data processing, and applied ML to tur
 
 - [LinkedIn](https://linkedin.com/in/parisa-ahmadi/)
 - [GitHub Repositories](https://github.com/parissaahmadi?tab=repositories)
+- [Google Scholar](https://scholar.google.com/citations?user=grtuNeYAAAAJ&hl=en)
 
 I’m interested in building useful AI systems, solving practical engineering problems, and collaborating on applied AI projects.
