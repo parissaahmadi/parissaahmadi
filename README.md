@@ -1,4 +1,4 @@
-# Hi, I'm Parisa 👋
+# Hi, I'm Parisa
 
 **AI Engineer | Applied AI, LLMs & Industrial AI**
 
@@ -6,7 +6,7 @@ I build practical AI applications and backend systems, with a focus on LLM-power
 
 My work combines Python, API development, data processing, and applied ML to turn real-world problems into testable, maintainable software.
 
-## 🔧 Featured Projects
+## Featured Projects
 
 | Project | Description | Focus |
 |---|---|---|
@@ -17,12 +17,12 @@ My work combines Python, API development, data processing, and applied ML to tur
 | [machine-spec-parser](https://github.com/parissaahmadi/machine-spec-parser) | Extracts and normalizes information from industrial equipment datasheets | Python, data processing |
 | [docker-metrics-exporter](https://github.com/parissaahmadi/docker-metrics-exporter) | Metrics exporter for a simulated industrial environment | Prometheus, Grafana, Docker |
 
-## 📦 Other Projects
+## Other Projects
 
 - [boost-scheduler](https://github.com/parissaahmadi/boost-scheduler) — State-machine scheduler for boosting listings, with an audit log.
 - [service-report-pdf-fa](https://github.com/parissaahmadi/service-report-pdf-fa) — Bilingual Persian/English PDF reports with RTL and Jalali date support.
 
-## 🧠 Technical Interests
+## Technical Interests
 
 - Applied AI and Machine Learning
 - LLM applications, RAG, and AI agents
@@ -30,13 +30,13 @@ My work combines Python, API development, data processing, and applied ML to tur
 - Python, FastAPI, and backend engineering
 - Data processing, evaluation, and reliable AI systems
 
-## 🔬 Research & Earlier Work
+## Research & Earlier Work
 
 - **scPerformer:** Research on deep clustering of single-cell RNA-sequencing data.
 - [py4bio](https://github.com/parissaahmadi/py4bio) — Python for bioinformatics.
 - [neural-network](https://github.com/parissaahmadi/neural-network) — Neural network implementation from scratch.
 
-## 🤝 Connect
+## Connect
 
 - [LinkedIn](https://linkedin.com/in/parisa-ahmadi/)
 - [GitHub Repositories](https://github.com/parissaahmadi?tab=repositories)
