@@ -22,6 +22,16 @@ My work combines Python, API development, data processing, and applied ML to tur
 - [boost-scheduler](https://github.com/parissaahmadi/boost-scheduler) — State-machine scheduler for boosting listings, with an audit log.
 - [service-report-pdf-fa](https://github.com/parissaahmadi/service-report-pdf-fa) — Bilingual Persian/English PDF reports with RTL and Jalali date support.
 
+## Core Technologies
+
+- **Languages:** Python
+- **Backend:** FastAPI, Starlette, REST APIs
+- **LLM Applications:** Retrieval-Augmented Generation (RAG), FAISS, metadata filtering, reranking, Model Context Protocol (MCP)
+- **Data & Storage:** SQLite, data processing and validation, PostgreSql
+- **Observability:** Prometheus, Grafana
+- **Engineering Practices:** Automated testing with pytest, GitHub Actions CI, modular architecture, role-based authorization, audit logging
+- **Containers:** Docker, Docker Compose
+
 ## Technical Interests
 
 - Applied AI and Machine Learning
