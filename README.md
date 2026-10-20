@@ -1,27 +1,43 @@
-# Hi, I'm Parisa 👋
+Hi, I'm Parisa 👋
 
-Python + industrial software. Small, self-contained demos — each one with tests, CI and a README.
+AI Engineer | Applied AI, LLMs & Industrial AI
 
-## Featured demos
+I build practical AI applications and backend systems, with a focus on LLM-powered solutions, retrieval-augmented generation (RAG), machine learning, and industrial workflows.
 
-| Demo | What | Stack |
-|---|---|---|
-| [boost-scheduler](https://github.com/parissaahmadi/boost-scheduler) | State-machine scheduler for boosting listings | stdlib, state machine, audit log |
-| [machine-spec-parser](https://github.com/parissaahmadi/machine-spec-parser) | Normalize messy industrial datasheets | stdlib, HTML, SQLite |
-| [service-report-pdf-fa](https://github.com/parissaahmadi/service-report-pdf-fa) | Bilingual Persian/English PDF reports | reportlab, RTL, Jalali |
-| [cmms-mcp-server](https://github.com/parissaahmadi/cmms-mcp-server) | MCP server for CMMS tools | MCP, SQLite |
-| [technician-coach-llm](https://github.com/parissaahmadi/technician-coach-llm) | LLM troubleshooting coach | LLM, role separation |
-| [docker-metrics-exporter](https://github.com/parissaahmadi/docker-metrics-exporter) | Prometheus exporter for simulated plant | Prometheus, Grafana, Docker |
+My work combines Python, API development, data processing, and applied ML to turn real-world problems into testable, maintainable software.
 
-## More
+🔧 Featured Projects
 
-[`industrial-ai-demos`](https://github.com/parissaahmadi/industrial-ai-demos) — approval workflow, forward-only migrations, Persian-aware search, LiveKit tokens, vibration anomaly detection.
+Project| Description| Focus
+"enterprise-ai-assistant" (https://github.com/parissaahmadi/enterprise-ai-assistant)| Enterprise-oriented AI assistant with retrieval and source-grounded answers| RAG, FastAPI, FAISS
+"industrial-ai-demos" (https://github.com/parissaahmadi/industrial-ai-demos)| A collection of applied AI and industrial software prototypes| Industrial AI, automation
+"cmms-mcp-server" (https://github.com/parissaahmadi/cmms-mcp-server)| MCP server exposing maintenance-management tools| MCP, Python, SQLite
+"technician-coach-llm" (https://github.com/parissaahmadi/technician-coach-llm)| LLM-based assistant for troubleshooting workflows| LLM applications
+"machine-spec-parser" (https://github.com/parissaahmadi/machine-spec-parser)| Extracts and normalizes information from industrial equipment datasheets| Python, data processing
+"docker-metrics-exporter" (https://github.com/parissaahmadi/docker-metrics-exporter)| Metrics exporter for a simulated industrial environment| Prometheus, Grafana, Docker
 
-## Earlier work
+📦 Other Projects
 
-Notebooks and ML experiments from earlier years:
+- "boost-scheduler" (https://github.com/parissaahmadi/boost-scheduler) — State-machine scheduler for boosting listings, with an audit log.
+- "service-report-pdf-fa" (https://github.com/parissaahmadi/service-report-pdf-fa) — Bilingual Persian/English PDF reports with RTL and Jalali date support.
 
-- [py4bio](https://github.com/parissaahmadi/py4bio) — Python for bioinformatics (Jupyter notebooks)
-- [neural-network](https://github.com/parissaahmadi/neural-network) — Neural network from scratch (Jupyter)
-- [AutomationTasks](https://github.com/parissaahmadi/AutomationTasks) — Python automation scripts
-- [enterprise-ai-assistant](https://github.com/parissaahmadi/enterprise-ai-assistant) — Enterprise AI assistant
+🧠 Technical Interests
+
+- Applied AI and Machine Learning
+- LLM applications, RAG, and AI agents
+- Industrial AI and intelligent maintenance systems
+- Python, FastAPI, and backend engineering
+- Data processing, evaluation, and reliable AI systems
+
+🔬 Research & Earlier Work
+
+- scPerformer: Research on deep clustering of single-cell RNA-sequencing data.
+- "py4bio" (https://github.com/parissaahmadi/py4bio) — Python for bioinformatics.
+- "neural-network" (https://github.com/parissaahmadi/neural-network) — Neural network implementation from scratch.
+
+🤝 Connect
+
+- "LinkedIn" (https://linkedin.com/in/parisa-ahmadi/)
+- "GitHub Repositories" (https://github.com/parissaahmadi?tab=repositories)
+
+I’m interested in building useful AI systems, solving practical engineering problems, and collaborating on applied AI projects.
