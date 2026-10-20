@@ -30,9 +30,12 @@ My work combines Python, API development, data processing, and applied ML to tur
 - Python, FastAPI, and backend engineering
 - Data processing, evaluation, and reliable AI systems
 
-## Research & Earlier Work
+## Research & Publications
 
-- **scPerformer:** Research on deep clustering of single-cell RNA-sequencing data.
+- **ScPerformer-Based Deep Clustering of Single Cell RNA Sequencing Data**  
+  *2024 10th International Conference on Signal Processing and Intelligent Systems (ICSPIS 2024), pp. 160–165.*  
+  Research on deep clustering of single-cell RNA-sequencing data using Performer-based attention and deep learning techniques.  
+  [Read on IEEE Xplore](https://ieeexplore.ieee.org/document/10931102)
 - [py4bio](https://github.com/parissaahmadi/py4bio) — Python for bioinformatics.
 - [neural-network](https://github.com/parissaahmadi/neural-network) — Neural network implementation from scratch.
 
